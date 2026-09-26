@@ -10,3 +10,7 @@ drf-yasg
 drf-spectacular-sidecar
 django-filter
 waitress
+whitenoise
+gunicorn
+django-cors-headers
+vercel
